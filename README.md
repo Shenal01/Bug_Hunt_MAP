@@ -1,6 +1,10 @@
 # Bug_Hunt_MAP
 My Bug bounty mind map
+<h2>Refer The Code View</h2>
 
+<h2>Web Security Module Mind Map</h2>
+<h4><a href="https://whimsical.com/web-sec-As4ZwiAcFRygqUfZXo7Fed">Web_Security</a></h4>
+<img href="![image](https://github.com/Shenal01/Bug_Hunt_MAP/assets/125433645/b34c2efe-92b5-4b8e-995f-d5c7bc9de8c1)">
 
 Penetration Testing Techniques
     |
